@@ -1,0 +1,41 @@
+.product-Container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+
+}
+ .product-details{
+    flex: 1;
+ }
+
+ .product-image{
+    width: 300px;
+    height: 300px;
+    object-fit: contain;
+    margin-right: 20px;
+ }
+
+ .product-buy{
+  
+    background-color: rgb(255, 220, 42);
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+   
+    border: none;
+    padding: 12px;
+   
+    cursor: pointer;
+ }
+
+ .product-home{
+    position: absolute;
+    background-color: darkred;
+    color: beige;
+    font-weight: bold;
+    
+    border: none;
+    padding: 12px;
+   
+    cursor: pointer;
+ }

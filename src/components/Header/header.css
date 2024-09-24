@@ -1,0 +1,22 @@
+.header{
+    background-color: darkred;
+    color: beige;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+   height: 60px; ;
+   padding-left: 10px;
+   padding-right: 10px;
+}
+.header h1{
+    margin: 0;
+
+
+}
+.logout{
+    color:black ;
+    background-color:beige;
+    font-weight: bolder;
+    padding: 10px 20px;
+    cursor: pointer;
+}

@@ -1,0 +1,6 @@
+.footer{
+    background-color: darkred;
+    color: beige;
+    display: flex;
+    justify-content: center;
+}
